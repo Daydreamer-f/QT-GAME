@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>text_content/activity/allactivity0.txt</file>
+        <file>text_content/activity/allactivity1.txt</file>
+        <file>text_content/activity/allactivity2.txt</file>
+        <file>text_content/activity/allactivity3.txt</file>
+        <file>text_content/character/0.txt</file>
+        <file>text_content/character/0v.txt</file>
+        <file>text_content/character/1.txt</file>
+        <file>text_content/character/1v.txt</file>
+        <file>text_content/character/2.txt</file>
+        <file>text_content/character/2v.txt</file>
+        <file>text_content/character/3.txt</file>
+        <file>text_content/character/3v.txt</file>
+        <file>text_content/course/allclass.txt</file>
+        <file>text_content/img/logo.png</file>
+        <file>text_content/music/type.wav</file>
+        <file>text_content/exit.png</file>
+        <file>text_content/icon.png</file>
+        <file>text_content/icon_HD.png</file>
+        <file>text_content/main_menu.png</file>
+        <file>text_content/pixel.ttf</file>
+        <file>text_content/rule.txt</file>
+        <file>text_content/warn.png</file>
+    </qresource>
+</RCC>
